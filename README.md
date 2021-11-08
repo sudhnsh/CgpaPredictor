@@ -1,6 +1,6 @@
-# cgcal
+# CGPA Predictor
 
-A new Flutter project.
+A simple flutter application for college and school students to predict CGPA.
 
 ## Getting Started
 
