@@ -265,7 +265,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       children: <Widget>[
                         RichText(
                           text: TextSpan(
-                            text: 'Made By: Sudhanshu Poonia (101916003)',
+                            text: 'Made By: Sudhanshu Poonia',
                             style: const TextStyle(
                                 fontWeight: FontWeight.bold,
                                 color: Colors.black),
